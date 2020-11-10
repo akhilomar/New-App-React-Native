@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "112050726526",
+    "firebase_url": "https://dainik-ghazipur.firebaseio.com",
+    "project_id": "dainik-ghazipur",
+    "storage_bucket": "dainik-ghazipur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112050726526:android:6ecddb917b79125e5c5a2f",
+        "android_client_info": {
+          "package_name": "com.dainik.ghazipur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112050726526-ksjhjnhrlnv16ajki4bfgv5gohffbvvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS10gU2go9Dexd9dhCTelpxO6qWnTYXPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112050726526-ksjhjnhrlnv16ajki4bfgv5gohffbvvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
